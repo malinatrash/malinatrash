@@ -10,8 +10,6 @@
 
 - _✨ I use tabs over spaces_
 
-## Connect with me
-
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
@@ -96,24 +94,4 @@
 
 <br/>
 
-## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malinatrash&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-<br/>
-
-## Recent Blog Posts
-
-<img src="https://github-readme-stats.vercel.app/api?username=malinatrash&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-<br/>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=malinatrash&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-<br />
