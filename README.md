@@ -12,6 +12,13 @@
 
 ## Connect with me
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/malinatrash/count.svg" />
+</p>
+
 <div align="center">
 <a href="https://github.com/malinatrash" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
