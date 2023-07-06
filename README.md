@@ -37,7 +37,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://polyakovdmitriy.ru/wp-content/uploads/2019/05/nodejs.png.pagespeed.ce_.9zN9M5IW0F.png" alt="Node.js" height="70" /></a>  
 <!-- <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   -->
 <!-- <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>   -->
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://securitygrind.com/wp-content/uploads/2021/04/solidity-feat.jpg" alt="Solidity" height="70" /></a>  
+<img src="dowload-icon-Solidity-1324888764075432458_512.png">
   
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="70" /></a>  
 <!-- <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   -->
