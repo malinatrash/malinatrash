@@ -35,7 +35,8 @@
 
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://polyakovdmitriy.ru/wp-content/uploads/2019/05/nodejs.png.pagespeed.ce_.9zN9M5IW0F.png" alt="Node.js" height="83" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="83" /></a><a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="83" /></a><img style="margin: 10px" src="download-icon-Solidity-1324888764075432458_512.png"  height="83">
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="83" /></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://i.ibb.co/Jqqs8RP/hhhh.png" alt="rust" height="83" /></a>
 </div>
 
 </td><td valign="top" width="33%">
