@@ -52,6 +52,9 @@
 
 </td></tr></table>
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+
 <br/>
 
 <a href=#><img src="contributions.svg"></a>
