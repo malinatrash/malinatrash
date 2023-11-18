@@ -52,7 +52,8 @@
 
 </td></tr></table>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <p align="center" href=#><img src="contributions.svg"></p>
