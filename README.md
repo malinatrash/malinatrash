@@ -35,8 +35,8 @@
 
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 8px" src="https://polyakovdmitriy.ru/wp-content/uploads/2019/05/nodejs.png.pagespeed.ce_.9zN9M5IW0F.png" alt="Node.js" height="80" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 8px" src="https://i.ibb.co/Jqqs8RP/hhhh.png" alt="rust" height="80" /></a>
   <a href="https://go.dev/" target="_blank"><img style="margin: 8px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" alt="rust" height="80" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 8px" src="https://i.ibb.co/Jqqs8RP/hhhh.png" alt="rust" height="80" /></a>
 </div>
 </div>
 
